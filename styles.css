@@ -328,6 +328,10 @@ body {
         padding: 0.4rem 0.8rem;
         font-size: 0.875rem;
     }
+     .controls {
+        top: 5rem;
+        right: 0rem;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
