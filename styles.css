@@ -306,7 +306,7 @@ body {
 /* Responsive font sizes */
 @media (max-width: 767px) {
     .card-text-content {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
         padding: 1rem;
     }
     
